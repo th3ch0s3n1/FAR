@@ -5,12 +5,12 @@
 ## Obsah
 
 - Obecná farmakologie
-  - Farmakokinetika
-    - Způsob podání léčiva
-    - Absorpce
-    - Distribuce
-    - Biotransformace
-    - Exkrece
+  - [Farmakokinetika](obecná_farmakologie/farmakokinetika/úvod.md)
+    - [Způsob podání léčiva](obecná_farmakologie/farmakokinetika/způsoby_podání_léčiva.md)
+    - [Absorpce](obecná_farmakologie/farmakokinetika/absorpce.md)
+    - [Distribuce](obecná_farmakologie/farmakokinetika/distribuce.md)
+    - [Biotransformace](obecná_farmakologie/farmakokinetika/biotransformace.md)
+    - [Exkrece](obecná_farmakologie/farmakokinetika/exkrece.md)
 
   - Farmakodynamika
     - Nespecifické účinky léčiv
