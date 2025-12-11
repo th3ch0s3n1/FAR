@@ -18,4 +18,9 @@
 
   - Farmakogenetika a farmakogenomika
   - Farmakoekonomika
+  - Vývoj, registrace, druhy a klasifikace léčiv
+  - Lékové interakce a nežádoucí účinky léčiv
+  - Farmakoterapie a těhotenství
+  - Farmakoterapie a stáří
 
+- Speciální farmakologie
