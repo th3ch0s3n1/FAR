@@ -24,3 +24,16 @@
   - Farmakoterapie a stáří
 
 - Speciální farmakologie
+
+## K vytisknutí
+
+- [Flashcards farmakologie](farmakologie_flashcards.pdf)
+
+## Anki cards
+
+1. krok - stáhnout [zde](https://apps.ankiweb.net/) aplikaci Anki a nainstalovat ji *(PC/Mac/Android nebo iOS)*
+   - *Poznámka: verze pro iOS je placená*
+2. krok - stáhnout balíčky karet
+
+   - [anki_farmakologie.apkg](anki/anki_farmakologie.apkg)
+3. krok - naimportovat stažené balíčky do aplikace
