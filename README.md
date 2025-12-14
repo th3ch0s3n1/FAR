@@ -1,6 +1,8 @@
 # Farmakologie
 
-**Farmakologie** je odvětví medicíny a biologie zabývající se studiem účinku léčiv. Léčivo můžeme definovat jako uměle vytvořenou, přírodní či endogenní látku,  která biochemickou a/nebo fyziologickou cestou ovlivňuje buňku, tkáň,  orgán či dokonce celý organismus. 
+**Farmakologie** je odvětví medicíny a biologie zabývající se studiem účinku léčiv. Léčivo můžeme definovat jako uměle vytvořenou, přírodní či endogenní látku,  která biochemickou a/nebo fyziologickou cestou ovlivňuje buňku, tkáň,  orgán či dokonce celý organismus.
+
+![https://pixabay.com/photos/medications-tablets-medicine-cure-1853400/](img/medications.jpg)
 
 ## Obsah
 
