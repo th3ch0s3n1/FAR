@@ -39,3 +39,7 @@
 
    - [anki_farmakologie.apkg](anki/anki_farmakologie.apkg)
 3. krok - naimportovat stažené balíčky do aplikace
+
+## Použité zdroje
+
+- [Farmakologie v kostce - Martin Votava, Jiří Slíva](https://www.knihovny.cz/Record/kfbz.9a6399b1-81af-49d6-a6b1-23bc6a2cdc2d)
